@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up? My name is Albert and I'm a boy from Dominican Republic, I'm Student exploring technology, creativity, and new ideas.</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
